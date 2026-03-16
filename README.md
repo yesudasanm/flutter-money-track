@@ -1,17 +1,15 @@
 # money_track
 
-A new Flutter application.
+A new Flutter application to manage and analyse daily expenses.
 
-## Getting Started
+Features:-
+- Add, edit, delete expenses
+- Category-Based line diagram
+- Local storage using sharedPreferenses
+- clean UI with Flutter widgets
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Tech Stack
+  - Flutter
+  - Dart
+  - SharedPreferenses
+  - fl_chart
